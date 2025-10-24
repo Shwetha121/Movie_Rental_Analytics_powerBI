@@ -79,4 +79,4 @@ Using SQL, Excel, and Power BI, I turned raw rental data into actionable insight
 
 ### 📬 Author  
 **Swetha Thallapelli**  
-*Data Analytics Enthusiast | Power BI | SQL | Excel | Problem Solving*  
+*Data Analytics Enthusiast | Power BI | SQL | Excel/Python| Problem Solving*  
